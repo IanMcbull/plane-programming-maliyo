@@ -6,7 +6,7 @@ public class PlayerControllerX : MonoBehaviour
 {
     // Declaring the game variables
     private float speed = 10f;
-    private float rotationSpeed;
+    private float rotationSpeed = 100f;
     private float verticalInput;
 
     // Start is called before the first frame update
